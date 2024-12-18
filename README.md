@@ -38,4 +38,4 @@ This repository includes:
 
 1. Clone the repository to your local system:
    ```bash
-   git clone https://github.com/yourusername/lal-path-lab.git
+   git clone https://github.com/8409251542/Dr.lalPathLabs
